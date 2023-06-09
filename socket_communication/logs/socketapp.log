@@ -1,0 +1,2286 @@
+INFO:root:
+	 Starting (or re-starting) app at 20/08/2021 20:03:25
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48254))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':713, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 713, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 52 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:11 
+		 ok: True 
+		 Time 713 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48256))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1542, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1542, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 53 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:18 
+		 ok: True 
+		 Time 1542 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48258))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2567, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2567, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 54 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:19 
+		 ok: True 
+		 Time 2567 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48260))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':157}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 157}
+INFO:root:
+	Save in db:::  --> id Part 55 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:20 
+		 ok: False 
+		 Time 157 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48262))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1457, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1457, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 56 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:21 
+		 ok: True 
+		 Time 1457 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48268))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2422}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2422}
+INFO:root:
+	Save in db:::  --> id Part 57 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:22 
+		 ok: False 
+		 Time 2422 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48270))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2356, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2356, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 58 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:23 
+		 ok: True 
+		 Time 2356 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48272))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2508, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2508, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 59 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:24 
+		 ok: True 
+		 Time 2508 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48274))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2807}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2807}
+INFO:root:
+	Save in db:::  --> id Part 60 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:24 
+		 ok: False 
+		 Time 2807 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48276))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':619}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 619}
+INFO:root:
+	Save in db:::  --> id Part 61 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:25 
+		 ok: False 
+		 Time 619 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48278))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2648, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2648, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 62 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:26 
+		 ok: True 
+		 Time 2648 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48280))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1786, 'rework':1, 'rework_status':0, 'reworking_time':1598}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1786, 'rework': 1, 'rework_status': 0, 'reworking_time': 1598}
+INFO:root:
+	Save in db:::  --> id Part 63 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:27 
+		 ok: True 
+		 Time 1786 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 63> 
+		 ok: False 
+		 Time 1598 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 20/08/2021 20:07:50
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48348))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1317}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1317}
+INFO:root:
+	Save in db:::  --> id Part 64 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:08:04 
+		 ok: False 
+		 Time 1317 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 20/08/2021 20:08:33
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48364))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1511}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1511}
+INFO:root:
+	Save in db:::  --> id Part 65 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:08:37 
+		 ok: False 
+		 Time 1511 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 API stoped at 2021/08/20 20:08:48
+INFO:root:
+	 Starting (or re-starting) app at 01/12/2021 00:13:20
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48018))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2611}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2611}
+INFO:root:
+	Save in db:::  --> id Part 66 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:25 
+		 ok: False 
+		 Time 2611 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48076))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1778, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1778, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 67 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:32 
+		 ok: True 
+		 Time 1778 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48086))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':500}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 500}
+INFO:root:
+	Save in db:::  --> id Part 68 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:32 
+		 ok: False 
+		 Time 500 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48096))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2981}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2981}
+INFO:root:
+	Save in db:::  --> id Part 69 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:33 
+		 ok: False 
+		 Time 2981 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48098))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':701}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 701}
+INFO:root:
+	Save in db:::  --> id Part 70 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:34 
+		 ok: False 
+		 Time 701 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48108))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1549}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1549}
+INFO:root:
+	Save in db:::  --> id Part 71 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:34 
+		 ok: False 
+		 Time 1549 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48358))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1309, 'rework':1, 'rework_status':1, 'reworking_time':1964}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1309, 'rework': 1, 'rework_status': 1, 'reworking_time': 1964}
+INFO:root:
+	Save in db:::  --> id Part 72 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:52 
+		 ok: True 
+		 Time 1309 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 72> 
+		 ok: True 
+		 Time 1964 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48368))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2700}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2700}
+INFO:root:
+	Save in db:::  --> id Part 73 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:53 
+		 ok: False 
+		 Time 2700 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48378))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1628}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1628}
+INFO:root:
+	Save in db:::  --> id Part 74 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:54 
+		 ok: False 
+		 Time 1628 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48392))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2593}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2593}
+INFO:root:
+	Save in db:::  --> id Part 75 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:55 
+		 ok: False 
+		 Time 2593 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48394))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':473}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 473}
+INFO:root:
+	Save in db:::  --> id Part 76 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:56 
+		 ok: False 
+		 Time 473 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48404))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1167, 'rework':1, 'rework_status':1, 'reworking_time':596}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1167, 'rework': 1, 'rework_status': 1, 'reworking_time': 596}
+INFO:root:
+	Save in db:::  --> id Part 77 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:56 
+		 ok: True 
+		 Time 1167 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 77> 
+		 ok: True 
+		 Time 596 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48414))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':914, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 914, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 78 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:57 
+		 ok: True 
+		 Time 914 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48424))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1332}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1332}
+INFO:root:
+	Save in db:::  --> id Part 79 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:58 
+		 ok: False 
+		 Time 1332 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48426))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2991, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2991, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 80 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:59 
+		 ok: True 
+		 Time 2991 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48436))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':515, 'rework':1, 'rework_status':0, 'reworking_time':2549}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 515, 'rework': 1, 'rework_status': 0, 'reworking_time': 2549}
+INFO:root:
+	Save in db:::  --> id Part 81 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:00 
+		 ok: True 
+		 Time 515 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 81> 
+		 ok: False 
+		 Time 2549 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48450))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2568}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2568}
+INFO:root:
+	Save in db:::  --> id Part 82 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:00 
+		 ok: False 
+		 Time 2568 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48460))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2341}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2341}
+INFO:root:
+	Save in db:::  --> id Part 83 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:01 
+		 ok: False 
+		 Time 2341 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48470))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1700, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1700, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 84 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:02 
+		 ok: True 
+		 Time 1700 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48472))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2750, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2750, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 85 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:03 
+		 ok: True 
+		 Time 2750 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48482))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':817, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 817, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 86 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:03 
+		 ok: True 
+		 Time 817 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48484))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2423, 'rework':1, 'rework_status':0, 'reworking_time':2500}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2423, 'rework': 1, 'rework_status': 0, 'reworking_time': 2500}
+INFO:root:
+	Save in db:::  --> id Part 87 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:04 
+		 ok: True 
+		 Time 2423 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 87> 
+		 ok: False 
+		 Time 2500 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48498))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':902, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 902, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 88 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:05 
+		 ok: True 
+		 Time 902 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48508))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2910, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2910, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 89 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:06 
+		 ok: True 
+		 Time 2910 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48526))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':498}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 498}
+INFO:root:
+	Save in db:::  --> id Part 90 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:08 
+		 ok: False 
+		 Time 498 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48536))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2342}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2342}
+INFO:root:
+	Save in db:::  --> id Part 91 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:08 
+		 ok: False 
+		 Time 2342 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48538))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2604, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2604, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 92 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:09 
+		 ok: True 
+		 Time 2604 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48548))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1847, 'rework':1, 'rework_status':1, 'reworking_time':2988}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1847, 'rework': 1, 'rework_status': 1, 'reworking_time': 2988}
+INFO:root:
+	Save in db:::  --> id Part 93 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:09 
+		 ok: True 
+		 Time 1847 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 93> 
+		 ok: True 
+		 Time 2988 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48554))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':640, 'rework':1, 'rework_status':0, 'reworking_time':1933}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 640, 'rework': 1, 'rework_status': 0, 'reworking_time': 1933}
+INFO:root:
+	Save in db:::  --> id Part 94 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:10 
+		 ok: True 
+		 Time 640 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 94> 
+		 ok: False 
+		 Time 1933 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48572))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1526, 'rework':1, 'rework_status':0, 'reworking_time':290}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1526, 'rework': 1, 'rework_status': 0, 'reworking_time': 290}
+INFO:root:
+	Save in db:::  --> id Part 95 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:11 
+		 ok: True 
+		 Time 1526 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 95> 
+		 ok: False 
+		 Time 290 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48574))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':519}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 519}
+INFO:root:
+	Save in db:::  --> id Part 96 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:12 
+		 ok: False 
+		 Time 519 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48584))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1225}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1225}
+INFO:root:
+	Save in db:::  --> id Part 97 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:12 
+		 ok: False 
+		 Time 1225 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48586))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1908}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1908}
+INFO:root:
+	Save in db:::  --> id Part 98 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:13 
+		 ok: False 
+		 Time 1908 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48596))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2794, 'rework':1, 'rework_status':1, 'reworking_time':1237}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2794, 'rework': 1, 'rework_status': 1, 'reworking_time': 1237}
+INFO:root:
+	Save in db:::  --> id Part 99 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:13 
+		 ok: True 
+		 Time 2794 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 99> 
+		 ok: True 
+		 Time 1237 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 API stoped at 2021/12/30 20:53:45
+INFO:root:
+	 Starting (or re-starting) app at 20/04/2023 14:26:10
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 20/04/2023 14:43:54
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 20/04/2023 14:47:45
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	 Starting (or re-starting) app at 20/04/2023 16:09:01
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 08/05/2023 12:50:46
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 08/05/2023 13:18:11
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 12:43:27
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64871))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':772}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 772}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64872))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1987, 'rework':1, 'rework_status':0, 'reworking_time':2745}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1987, 'rework': 1, 'rework_status': 0, 'reworking_time': 2745}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64874))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2208}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2208}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64875))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':976, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 976, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64876))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1167}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1167}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64877))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1928, 'rework':1, 'rework_status':0, 'reworking_time':1383}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1928, 'rework': 1, 'rework_status': 0, 'reworking_time': 1383}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64878))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2397, 'rework':1, 'rework_status':1, 'reworking_time':2619}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2397, 'rework': 1, 'rework_status': 1, 'reworking_time': 2619}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64879))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2871}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2871}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64880))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2287}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2287}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64881))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':862, 'rework':1, 'rework_status':1, 'reworking_time':2872}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 862, 'rework': 1, 'rework_status': 1, 'reworking_time': 2872}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 64882))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2910, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2910, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65214))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1359}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1359}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65215))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':830}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 830}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65216))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1827}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1827}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65217))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':315}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 315}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65218))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1336, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1336, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65219))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1391}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1391}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65220))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1318, 'rework':1, 'rework_status':0, 'reworking_time':1940}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1318, 'rework': 1, 'rework_status': 0, 'reworking_time': 1940}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65221))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2397, 'rework':1, 'rework_status':1, 'reworking_time':1756}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2397, 'rework': 1, 'rework_status': 1, 'reworking_time': 1756}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 65222))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2537, 'rework':1, 'rework_status':0, 'reworking_time':1037}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2537, 'rework': 1, 'rework_status': 0, 'reworking_time': 1037}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49289))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 13:14:34
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49302))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 13:17:34
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49332))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2062, 'rework':1, 'rework_status':1, 'reworking_time':887}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2062, 'rework': 1, 'rework_status': 1, 'reworking_time': 887}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49333))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':150}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 150}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49334))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':983}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 983}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49335))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':471, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 471, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49336))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':525}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 525}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49337))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2564}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2564}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49339))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 13:23:56
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49376))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1789}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1789}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49378))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 13:25:39
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49398))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2289}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2289}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49468))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':575, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 575, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49518))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 14:05:27
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49595))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 14:17:07
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49924))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':751, 'rework':1, 'rework_status':1, 'reworking_time':960}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 751, 'rework': 1, 'rework_status': 1, 'reworking_time': 960}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49926))
+INFO:root:
+	 Starting (or re-starting) app at 02/06/2023 14:38:52
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49975))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2399}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2399}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 57104))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1730}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1730}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 49866))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 12:22:09
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51410))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':294}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 294}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51444))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 12:26:39
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51486))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 12:29:20
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 12:29:40
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51548))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2734, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2734, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 API stoped at 2023/06/05 12:32:34
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 13:30:38
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51832))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2176, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2176, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51890))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2411, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2411, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 51917))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':672, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 672, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52032))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':405}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 405}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52033))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2031}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2031}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52036))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:03:26
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52048))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1152, 'rework':1, 'rework_status':0, 'reworking_time':1650}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1152, 'rework': 1, 'rework_status': 0, 'reworking_time': 1650}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52049))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1520, 'rework':1, 'rework_status':1, 'reworking_time':1797}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1520, 'rework': 1, 'rework_status': 1, 'reworking_time': 1797}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52061))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:04:00
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52073))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:05:42
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52115))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':425, 'rework':1, 'rework_status':1, 'reworking_time':1435}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 425, 'rework': 1, 'rework_status': 1, 'reworking_time': 1435}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52118))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:16:05
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52209))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:16:30
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52214))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1965, 'rework':1, 'rework_status':1, 'reworking_time':2850}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1965, 'rework': 1, 'rework_status': 1, 'reworking_time': 2850}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52215))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1712}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1712}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52219))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:17:37
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52255))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:17:51
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52393))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:49:03
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52435))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 14:50:49
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52462))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1714, 'rework':1, 'rework_status':0, 'reworking_time':2956}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1714, 'rework': 1, 'rework_status': 0, 'reworking_time': 2956}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52552))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1985}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1985}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52786))
+INFO:root:
+	 Starting (or re-starting) app at 05/06/2023 16:30:08
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 52824))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2952, 'rework':1, 'rework_status':0, 'reworking_time':2332}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2952, 'rework': 1, 'rework_status': 0, 'reworking_time': 2332}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 53030))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':250, 'rework':1, 'rework_status':1, 'reworking_time':1999}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 250, 'rework': 1, 'rework_status': 1, 'reworking_time': 1999}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 53031))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2923}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2923}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 53032))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1828, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1828, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 53033))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':630, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 630, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 53035))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 09:33:08
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59516))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':653}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 653}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59526))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1591}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1591}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59545))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:16:18
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59817))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':410}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 410}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59818))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2660, 'rework':1, 'rework_status':0, 'reworking_time':1740}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2660, 'rework': 1, 'rework_status': 0, 'reworking_time': 1740}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59819))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2171}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2171}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59823))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2919, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2919, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59825))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1764}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1764}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59826))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':786, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 786, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59830))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:24:19
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59862))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2887, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2887, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59874))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:25:44
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59891))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':297, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 297, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 API stoped at 2023/06/06 10:27:27
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:27:47
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59925))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':657, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 657, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59928))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2044, 'rework':1, 'rework_status':1, 'reworking_time':2081}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2044, 'rework': 1, 'rework_status': 1, 'reworking_time': 2081}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59929))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':210, 'rework':1, 'rework_status':1, 'reworking_time':2921}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 210, 'rework': 1, 'rework_status': 1, 'reworking_time': 2921}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59930))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':929}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 929}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 59931))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1566, 'rework':1, 'rework_status':0, 'reworking_time':709}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1566, 'rework': 1, 'rework_status': 0, 'reworking_time': 709}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60074))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:38:50
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60087))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1657, 'rework':1, 'rework_status':1, 'reworking_time':1903}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1657, 'rework': 1, 'rework_status': 1, 'reworking_time': 1903}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60088))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1566}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1566}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60089))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1099}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1099}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60095))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:39:39
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60108))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1813}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1813}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60109))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2845}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2845}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60119))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 10:40:39
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60133))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2966}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2966}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60808))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 13:04:33
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60835))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':819, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 819, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60839))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 13:08:31
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60873))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1083}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1083}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60877))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 13:11:47
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60967))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1932, 'rework':1, 'rework_status':1, 'reworking_time':1243}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1932, 'rework': 1, 'rework_status': 1, 'reworking_time': 1243}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 60984))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2795}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2795}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 61060))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1016}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1016}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 61082))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 13:18:36
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 61099))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 14:22:58
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 61492))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':543, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 543, 'rework': 0}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 61520))
+INFO:root:
+	 Starting (or re-starting) app at 06/06/2023 14:51:05
+INFO:root:
+	Socket::  --> starting up on 192.168.0.14 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 61900))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1636}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1636}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.14', 62071))
+INFO:root:
+	 Starting (or re-starting) app at 08/06/2023 17:47:14
+INFO:root:
+	Socket::  --> starting up on 192.168.0.12 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.12', 12350))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1633}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1633}
+ERROR:root:
+	When saving in db:::  --> Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.12', 64501))
+INFO:root:
+	 Starting (or re-starting) app at 08/06/2023 17:50:38
+INFO:root:
+	Socket::  --> starting up on 192.168.0.12 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('192.168.0.12', 64518))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b'POST / HTTP/1.1\r\nHost: 192.168.0.12:10000\r\nUser-Agent: python-requests/2.28.2\r\nAccept-Encoding: gzip, deflate\r\nAccept: */*\r\nConnection: keep-alive\r\nContent-Length: 0\r\n\r\n')
+ERROR:root:
+	create_object_Part::  --> Expecting value: line 1 column 1 (char 0)
